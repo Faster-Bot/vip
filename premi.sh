@@ -1,9 +1,9 @@
 #!/bin/bash
 ### Color
 apt upgrade -y
-apt update -y
-apt install lolcat -y
-apt install wondershaper -y
+apt update
+apt install lolcat
+apt install wondershaper
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"

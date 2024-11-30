@@ -2,6 +2,7 @@
 ### Color
 apt upgrade -y
 apt update -y
+apt install -y
 apt install lolcat -y
 apt install wondershaper -y
 apt install wget -y

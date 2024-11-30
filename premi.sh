@@ -4,6 +4,7 @@ apt upgrade -y
 apt update -y
 apt install lolcat -y
 apt install wondershaper -y
+apt install wget -y
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"

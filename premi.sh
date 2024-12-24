@@ -39,10 +39,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To SCRIPT BayuXD ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To SCRIPT FastVpn ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green} BAYUXD ® ${NC}${YELLOW}(${NC} ${green} BAYU_XD ${NC}${YELLOW})${NC}"
-echo -e " © Recode By BAYUXD ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Auther : ${green} FASTVPN ® ${NC}${YELLOW}(${NC} ${green} FAST_VPN ${NC}${YELLOW})${NC}"
+echo -e " © Recode By FASTVPN ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -331,7 +331,7 @@ restart_system(){
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$EXPSC</code>
 <code>────────────────────</code>
-<b>   BAYU XD SCRIPT  </b>
+<b>   FAST VPN SCRIPT  </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/6283141546555"}]]}' 
